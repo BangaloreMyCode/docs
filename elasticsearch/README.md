@@ -16,9 +16,9 @@ WARNING:
 
 # Supported tags and respective `Dockerfile` links
 
--	[`6.4.3` (*6/Dockerfile*)](https://github.com/docker-library/elasticsearch/blob/4cb8fc9d672f2b43feaf1e9178755fa0def4cff0/6/Dockerfile)
--	[`5.6.13`, `5.6`, `5` (*5/Dockerfile*)](https://github.com/docker-library/elasticsearch/blob/9a765c385f3b18e890e50eb21ff60465208726cf/5/Dockerfile)
--	[`5.6.13-alpine`, `5.6-alpine`, `5-alpine` (*5/alpine/Dockerfile*)](https://github.com/docker-library/elasticsearch/blob/9a765c385f3b18e890e50eb21ff60465208726cf/5/alpine/Dockerfile)
+**No supported tags found!**
+
+It is very likely that `elasticsearch` does not support the currently selected architecture (`windows-amd64`).
 
 # Quick reference
 
