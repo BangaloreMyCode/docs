@@ -20,6 +20,8 @@ WARNING:
 -	[`5.6.13`, `5.6`, `5` (*5/Dockerfile*)](https://github.com/docker-library/elasticsearch/blob/9a765c385f3b18e890e50eb21ff60465208726cf/5/Dockerfile)
 -	[`5.6.13-alpine`, `5.6-alpine`, `5-alpine` (*5/alpine/Dockerfile*)](https://github.com/docker-library/elasticsearch/blob/9a765c385f3b18e890e50eb21ff60465208726cf/5/alpine/Dockerfile)
 
+[![Build Status](https://doi-janky.infosiftr.net/job/multiarch/job/amd64/job/elasticsearch/badge/icon) (`amd64/elasticsearch` build job)](https://doi-janky.infosiftr.net/job/multiarch/job/amd64/job/elasticsearch/)
+
 # Quick reference
 
 -	**Where to get help**:  
